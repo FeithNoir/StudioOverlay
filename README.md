@@ -21,7 +21,7 @@ StudiOverlay es una aplicación desarrollada en Angular que permite a los usuari
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/studioverlay.git
+   git clone https://github.com/FeithNoir/studioverlay.git
    ```
 
 2. Ingresa al directorio del proyecto:
